@@ -1,0 +1,34 @@
+{
+    "ar": {
+        "welcome": "مرحباً {mention} 👋\nأنا بوت متخصص في تحويل صورك وملصقاتك إلى صور رمزية (xavatar) لجهاز بلاي ستيشن 4. 🎮\nأرسل لي أي صورة أو ملصق للبدء! ✨",
+        "notSupported": "عذراً، هذا النوع من الملفات غير مدعوم. 😕",
+        "tooBig": "حجم الصورة كبير جداً! 🖼️\nالحد الأقصى المسموح به هو 10 ميجابايت.",
+        "wait": "الرجاء الانتظار قليلاً... ⏳",
+        "failedprocessingimg": "عذراً، حدث خطأ أثناء معالجة الصورة. 😵\nيرجى المحاولة مرة أخرى أو استخدام صورة مختلفة.",
+        "connectionError": "عذراً، حدث خطأ أثناء الاتصال: {errorCode} ⚠️",
+        "InvalidURL": "الرابط غير صحيح، يرجى التأكد من أنه **رابط مباشر للصورة**. 🔗❌",
+        "aboutTxt": "حول هذا البوت 🤖",
+        "supporters": "الداعمون 💎",
+        "nosupportedyet": "لا يوجد داعمون مسجلون حالياً. 🍃",
+        "supported_list": "💎 **قائمة الداعمين المميزين:**\n\n",
+        "back": "الرجوع إلى القائمة الرئيسية 🔙",
+        "busy": "تتم معالجة طلبك السابق، يرجى الانتظار... ⏳",
+        "avatarsCollection": "من أين أحصل على الصور؟ 🖼️"
+    },
+    "en": {
+        "welcome": "Hi {mention} 👋\nI'm a bot that converts your images and stickers into PlayStation 4 xavatar profile pictures. 🎮\nSend me any image or sticker to get started! ✨",
+        "notSupported": "Sorry, this file format is not supported. 😕",
+        "tooBig": "The image file is too big! 🖼️\nThe maximum allowed size is 10 MB.",
+        "wait": "Please wait a moment... ⏳",
+        "failedprocessingimg": "Sorry, an error occurred while processing the image. 😵\nPlease try again or use a different image.",
+        "connectionError": "Sorry, a connection error occurred: {errorCode} ⚠️",
+        "InvalidURL": "Invalid URL. Please make sure it is a **direct image URL**. 🔗❌",
+        "aboutTxt": "About this bot 🤖",
+        "supporters": "Supporters 💎",
+        "nosupportedyet": "No supporters currently registered. 🍃",
+        "supported_list": "💎 **List of Supporters:**\n\n",
+        "back": "Return to main menu 🔙",
+        "busy": "Your previous request is being processed, please wait... ⏳",
+        "avatarsCollection": "Where can I get avatars? 🖼️"
+    }
+}
